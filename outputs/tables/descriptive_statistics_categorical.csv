@@ -1,0 +1,8 @@
+Feature,Count,Unique Categories,Top Category (Mode),Top Frequency,Top Mode Percentage
+gender,1413,4,Female,578,40.9%
+contract_type,1413,3,Two Year,596,42.2%
+payment_method,1413,5,Electronic Check,420,29.7%
+internet_service,1413,3,Fiber Optic,556,39.3%
+tech_support,1413,3,No,670,47.4%
+city,1413,16,Mumbai,96,6.8%
+churn,1413,2,No,1038,73.5%
